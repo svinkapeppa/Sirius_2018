@@ -1,4 +1,4 @@
-# Sirius_2018
+# Sirius 2018
 
 I've been a mentor in Sirius Summer Camp in 2018.
 My task was to guide a group of students,
