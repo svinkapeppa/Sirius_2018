@@ -6,4 +6,4 @@ Here I store notebooks that I've shown on the seminars.
 
 And also there are some notes on different themes.
 
-1. [Slides notes.pdf](Slides notes.pdf) - some pieces of advice for upcoming project defense.
+1. [Slides notes.pdf](Slides%20notes.pdf) - some pieces of advice for upcoming project defense.
