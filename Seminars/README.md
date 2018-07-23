@@ -22,6 +22,18 @@ I've created simple [kaggle competition](https://www.kaggle.com/c/multiclassific
 
 2. [Baseline.ipynb](Baseline.ipynb) - notebook which shows students how to solve competition.
 
+We've encounetered some problems, so I have to introduce PyTorch to my students.
+
+1. [PCR.ipynb](PCR.ipynb) - PyTorch example of the Main Net (Creation and Fit).
+
+2. [PCR_2.ipynb](PCR_2.ipynb) - PyTorch example of the Main Net (Load and Eval).
+
+3. [MainNet](MainNet) - weights of the model.
+
+I also take a small part in the development of the classificator:
+
+1. [lsb.ipynb](lsb.ipynb) - my variant of the *lsb stages of growth* classification.
+
 ## Acknowledgements
 
 I would like to thank all teachers of DLSchool and especially [Ilya Zakharkin](https://github.com/izaharkin) and [Nadezhda Zueva](https://github.com/nestyme). I also would like to thank [Roman Soletskyi](https://github.com/romasoletskyi) for his excellent course on NN.
