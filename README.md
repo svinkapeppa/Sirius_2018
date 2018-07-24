@@ -7,9 +7,12 @@ The primary goal was to create and present the final project.
 
 ## Project
 
-**Plant Seedling Recognition ()**: we have created a site,
+**Plant Seedling Recognition**: we have created a site,
 which helps to recognize 12 types of seedlings and also
 can determine the stage of their growth.
+
+Visit [RecogWeedtion](https://github.com/shtelzerartem/RecogWeedtion)
+for more information.
 
 ## Content
 
